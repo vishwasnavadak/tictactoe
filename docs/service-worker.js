@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vishwasnavadak/tictactoe/precache-manifest.680f0d5ebe413e81b11ff33cf251f08d.js"
+  "/tictactoe/precache-manifest.5cf75ba4f4bc17e2da5b583db4703b90.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/vishwasnavadak/tictactoe/index.html", {
+workbox.routing.registerNavigationRoute("/tictactoe/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

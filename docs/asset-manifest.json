@@ -1,14 +1,14 @@
 {
-  "main.css": "/vishwasnavadak/tictactoe/static/css/main.e091eb45.chunk.css",
-  "main.js": "/vishwasnavadak/tictactoe/static/js/main.adf51b46.chunk.js",
-  "main.js.map": "/vishwasnavadak/tictactoe/static/js/main.adf51b46.chunk.js.map",
-  "runtime~main.js": "/vishwasnavadak/tictactoe/static/js/runtime~main.d7bb0b2b.js",
-  "runtime~main.js.map": "/vishwasnavadak/tictactoe/static/js/runtime~main.d7bb0b2b.js.map",
-  "static/js/2.9c4268f1.chunk.js": "/vishwasnavadak/tictactoe/static/js/2.9c4268f1.chunk.js",
-  "static/js/2.9c4268f1.chunk.js.map": "/vishwasnavadak/tictactoe/static/js/2.9c4268f1.chunk.js.map",
-  "index.html": "/vishwasnavadak/tictactoe/index.html",
-  "precache-manifest.680f0d5ebe413e81b11ff33cf251f08d.js": "/vishwasnavadak/tictactoe/precache-manifest.680f0d5ebe413e81b11ff33cf251f08d.js",
-  "service-worker.js": "/vishwasnavadak/tictactoe/service-worker.js",
-  "static/css/main.e091eb45.chunk.css.map": "/vishwasnavadak/tictactoe/static/css/main.e091eb45.chunk.css.map",
-  "static/media/index.css": "/vishwasnavadak/tictactoe/static/media/4.23ca7f52.png"
+  "main.css": "/tictactoe/static/css/main.fc20eb98.chunk.css",
+  "main.js": "/tictactoe/static/js/main.adf51b46.chunk.js",
+  "main.js.map": "/tictactoe/static/js/main.adf51b46.chunk.js.map",
+  "runtime~main.js": "/tictactoe/static/js/runtime~main.1cfd47c4.js",
+  "runtime~main.js.map": "/tictactoe/static/js/runtime~main.1cfd47c4.js.map",
+  "static/js/2.9c4268f1.chunk.js": "/tictactoe/static/js/2.9c4268f1.chunk.js",
+  "static/js/2.9c4268f1.chunk.js.map": "/tictactoe/static/js/2.9c4268f1.chunk.js.map",
+  "index.html": "/tictactoe/index.html",
+  "precache-manifest.5cf75ba4f4bc17e2da5b583db4703b90.js": "/tictactoe/precache-manifest.5cf75ba4f4bc17e2da5b583db4703b90.js",
+  "service-worker.js": "/tictactoe/service-worker.js",
+  "static/css/main.fc20eb98.chunk.css.map": "/tictactoe/static/css/main.fc20eb98.chunk.css.map",
+  "static/media/index.css": "/tictactoe/static/media/4.23ca7f52.png"
 }
