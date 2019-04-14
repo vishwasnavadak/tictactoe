@@ -13,7 +13,7 @@ hydrate(
   <BrowserRouter>
     <Switch>
       <Route exact path="/" component={HomePage} />
-      <Route path="/2x2" component={Game2} />
+      <Route path="/two" component={Game2} />
       <Route path="/3x3" component={Game3} />
       <Route path="/4x4" component={Game4} />
     </Switch>
