@@ -6,7 +6,7 @@ const Homepage = () => {
     <div className="container">
       <h1>Welcome, Choose your game</h1>
       <div className="game-menu">
-        <Link to="/2x2" className="menu game-2">
+        <Link to="/two" className="menu game-2">
           2x2
         </Link>
         <Link to="/3x3" className="menu game-3">
